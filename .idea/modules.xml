@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/azureServiceBus.iml" filepath="$PROJECT_DIR$/azureServiceBus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/azureservicebus-build/azureservicebus-build.iml" filepath="$PROJECT_DIR$/azureservicebus-build/azureservicebus-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/azureservicebus-client/azureservicebus-client.iml" filepath="$PROJECT_DIR$/azureservicebus-client/azureservicebus-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/azureservicebus-common/azureservicebus-common.iml" filepath="$PROJECT_DIR$/azureservicebus-common/azureservicebus-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/azureservicebus-designer/azureservicebus-designer.iml" filepath="$PROJECT_DIR$/azureservicebus-designer/azureservicebus-designer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/azureservicebus-gateway/azureservicebus-gateway.iml" filepath="$PROJECT_DIR$/azureservicebus-gateway/azureservicebus-gateway.iml" />
+    </modules>
+  </component>
+</project>

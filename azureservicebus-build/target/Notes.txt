@@ -1,0 +1,3 @@
+The azure jars weren't --repack'd before they were signed, so when Ignition pack200s the jars for designer and client transport, the signatures become invalid.
+
+One way to keep these jar includes from throwing errors when loading the client and designer is to remove the .RSA and .SF files from META-INF in the jars.
